@@ -1,4 +1,4 @@
-require_relative '../../lib/solution'
+require_relative '../../lib/model_solution'
 
 RSpec.describe Solution do
   it '#interval_for_twins' do
