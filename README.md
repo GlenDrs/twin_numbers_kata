@@ -8,4 +8,4 @@
 For example in the interval between 2 and 25 [^1] the **twin primes** are: 3-5, 5-7, 11-13 and 17-19.
 
 
-[^1]: The 2 and the 15 are included in the interval.
+[^1]: The 2 and the 25 are included in the interval.
